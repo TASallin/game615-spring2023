@@ -4,7 +4,7 @@
 
 [Exercise 2](https://tasallin.github.io/game615-spring2023/exercises/exercise02/play)
 
-[Exercise 3](tighnarifox.github.io/game615-spring2023-03/play)
+[Exercise 3](https://tighnarifox.github.io/game615-spring2023-03/play)
 
 [Exercise 4](https://marcinek.tech/game615-spring2023-04/exercise04/play/)
 
